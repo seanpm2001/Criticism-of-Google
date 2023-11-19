@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+⚠️🗃️⚠️ A database of criticism related to Google LLC and its parent Alphabet Inc. See also: https://github.com/seanpm2001/DeGoogle-your-Life/
